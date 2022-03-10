@@ -178,9 +178,9 @@ function Contacts() {
       style={{ backgroundColor: theme.secondary }}
     >
       <div className="contacts--container">
-        <h1 style={{ color: theme.primary }}>Let's Connect</h1>
+        <h1 style={{ color: theme.primary }}>Contact me</h1>
         <div className="contacts-body">
-          <div className="contacts-form">
+          {/* <div className="contacts-form">
             <form onSubmit={handleContactForm}>
               <div className="input-container">
                 <label htmlFor="Name" className={classes.label}>
@@ -276,7 +276,7 @@ function Contacts() {
                 message={errMsg}
               />
             </Snackbar>
-          </div>
+          </div> */}
 
           <div className="contacts-details">
             <a

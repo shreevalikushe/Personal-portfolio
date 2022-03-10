@@ -2,10 +2,9 @@ import resume from "../assets/pdf/resume.pdf";
 import profileImg from "../assets/png/profileImg.png";
 
 export const headerData = {
-  name: "Renuka Prasad",
+  name: "Shreevali Kushe",
   title: "Web Developer",
-  desciption:
-    "Feet on the ground, eyes at the sky, never stop dreaming, never till you die.",
+  desciption: "Life is 10% what happens to us and 90% how we react to it. ",
   image: profileImg,
   resumePdf: resume,
 };

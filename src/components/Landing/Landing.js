@@ -14,7 +14,7 @@ import {
   FaLinkedin,
   FaGithub,
   FaYoutube,
-  // FaBlogger,
+  FaBlogger,
   FaMedium,
 } from "react-icons/fa";
 
@@ -168,8 +168,8 @@ function Landing() {
             <div className="lcr-buttonContainer">
               {headerData.resumePdf && (
                 <a
-                  href={`/Renuka-Prasad-resume.pdf`}
-                  download="Renuka_prasad_resume.pdf"
+                  href={`https://drive.google.com/file/d/14OMsg0gPJVX2io85gd3ZdWmKoQas4BFh/view?usp=sharing`}
+                  // download="Shreevali_resume.pdf"
                   target="_blank"
                   rel="noreferrer"
                 >
