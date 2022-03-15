@@ -14,8 +14,7 @@ export const projectsData = [
     ],
     tags: ["HTML", "CSS", "Javascript", "Bootstrap"],
     code: "https://github.com/shreevalikushe/BBC_Clone",
-    demo:
-      "https://6230c8ba303a6a00c7984f79--bbc-news-clone-website.netlify.app/",
+    demo: "https://bbc-news-clone-website.netlify.app/",
     image:
       "https://user-images.githubusercontent.com/74674737/146935382-82a4f03d-3f02-4afc-aa02-43c0a21bff1d.png",
   },
