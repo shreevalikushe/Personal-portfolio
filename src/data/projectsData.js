@@ -15,7 +15,7 @@ export const projectsData = [
     tags: ["HTML", "CSS", "Javascript", "Bootstrap"],
     code: "https://github.com/shreevalikushe/BBC_Clone",
     demo:
-      "https://www.linkedin.com/posts/shreevali-kushe-350965149_project-collaboration-javascript-activity-6864988917955919873-HSyf/",
+      "https://6230c8ba303a6a00c7984f79--bbc-news-clone-website.netlify.app/",
     image:
       "https://user-images.githubusercontent.com/74674737/146935382-82a4f03d-3f02-4afc-aa02-43c0a21bff1d.png",
   },
@@ -35,6 +35,22 @@ export const projectsData = [
     demo: "https://myntra-clone-gilt.vercel.app/",
     image: myntra,
   },
+  // {
+  //   id: 3,
+  //   projectName: "Myntra - Clone",
+  //   projectDesc: [
+  //     `All round Frontend integrated clone mimicing the user flow and and behaviour of Myntra.com.`,
+  //     [
+  //       "4 product pages with sorting and filters",
+  //       "Redux integration",
+  //       "Cart page features",
+  //     ],
+  //   ],
+  //   tags: ["React", "Redux", "MaterialUI"],
+  //   code: "https://github.com/shreevalikushe/myntra_clone",
+  //   demo: "https://myntra-clone-gilt.vercel.app/",
+  //   image: myntra,
+  // },
 ];
 
 // Do not remove any fields.
