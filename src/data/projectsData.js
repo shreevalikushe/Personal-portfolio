@@ -6,7 +6,7 @@ export const projectsData = [
     projectName: "Codecov - Clone",
     projectDesc: [
       `A clone of Codecov.io website using HTML, CSS and JS. Codecov is the leading, dedicated code coverage solution.`,
-      ["Built 7 pixel perfect pages", "Website responsiveness"],
+      ["Built Landing page and Resources page", "Website responsiveness"],
     ],
     tags: ["HTML", "CSS", "Javascript"],
     code: "https://github.com/shreevalikushe/Codecov_Clone",
@@ -47,10 +47,10 @@ export const projectsData = [
     image: myntra,
   },
   // {
-  //   id: 3,
+  //   id: 4,
   //   projectName: "Myntra - Clone",
   //   projectDesc: [
-  //     `All round Frontend integrated clone mimicing the user flow and and behaviour of Myntra.com.`,
+  //     `All round Frontend integrated clone mimicing the user flow and behaviour of Myntra.com.`,
   //     [
   //       "4 product pages with sorting and filters",
   //       "Redux integration",
