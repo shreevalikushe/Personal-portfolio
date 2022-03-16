@@ -1,7 +1,7 @@
 .singleProject {
   box-shadow: 4px 4px 8px rgba(36, 3, 3, 0.2);
-  width: 345px;
-  height: 360px;
+  width: 400px;
+  height: 390px;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -107,3 +107,20 @@
   word-break: break-word;
   line-height: 130%;
 }
+
+/* @media only screen and (min-device-width: 320px) and (max-device-width: 800px) and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 2/3) {
+  .singleProject {
+    box-shadow: 4px 4px 8px rgba(36, 3, 3, 0.2);
+    width: 350px;
+    height: 400px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1.4rem 2rem;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+  }
+} */
