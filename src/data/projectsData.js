@@ -1,8 +1,20 @@
 import myntra from "../assets/png/myntra.png";
-
+import codecov from "../assets/png/codecov.png";
 export const projectsData = [
   {
     id: 1,
+    projectName: "Codecov - Clone",
+    projectDesc: [
+      `A clone of Codecov.io website using HTML, CSS and JS. Codecov is the leading, dedicated code coverage solution.`,
+      ["Built 7 pixel perfect pages", "Website responsiveness"],
+    ],
+    tags: ["HTML", "CSS", "Javascript"],
+    code: "https://github.com/shreevalikushe/Codecov_Clone",
+    demo: "https://codecov-clone-website.netlify.app/",
+    image: codecov,
+  },
+  {
+    id: 2,
     projectName: "BBC News - Clone",
     projectDesc: [
       `A visual replica of BBC News with user authentication, news search and language translation feature.`,
@@ -19,10 +31,10 @@ export const projectsData = [
       "https://user-images.githubusercontent.com/74674737/146935382-82a4f03d-3f02-4afc-aa02-43c0a21bff1d.png",
   },
   {
-    id: 2,
+    id: 3,
     projectName: "Myntra - Clone",
     projectDesc: [
-      `All round Frontend integrated clone mimicing the user flow and and behaviour of Myntra.com.`,
+      `All round Frontend integrated clone mimicing the user flow and behaviour of Myntra.com.`,
       [
         "4 product pages with sorting and filters",
         "Redux integration",
