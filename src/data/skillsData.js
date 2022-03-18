@@ -11,6 +11,7 @@ export const skillsData = [
   "MaterialUI",
   "Postman",
   "Git",
+  "Data Structures",
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
