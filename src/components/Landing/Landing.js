@@ -168,7 +168,7 @@ function Landing() {
             <div className="lcr-buttonContainer">
               {headerData.resumePdf && (
                 <a
-                  href={`https://drive.google.com/file/d/14OMsg0gPJVX2io85gd3ZdWmKoQas4BFh/view?usp=sharing`}
+                  href={`https://drive.google.com/drive/folders/1hU99LoF61cVcJyrHD8ozrSXOA-HIF_u2?usp=sharing`}
                   // download="Shreevali_resume.pdf"
                   target="_blank"
                   rel="noreferrer"
