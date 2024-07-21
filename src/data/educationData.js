@@ -4,14 +4,14 @@ export const educationData = [
     institution: "Masai School, Bangalore",
     course: "Full Stack Web Development",
     startYear: "2021",
-    endYear: "present",
+    endYear: "2022",
   },
   {
     id: 2,
     institution: "SNDT Women's University, Pune",
     course: "Master's of Counseling Psychology",
     startYear: "2020",
-    endYear: "present",
+    endYear: "2022",
   },
   {
     id: 3,

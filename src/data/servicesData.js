@@ -34,7 +34,7 @@ export const servicesData = [
     // },
 
     {
-        id: 6,
+        id: 1,
         title: 'Web Design',
         icon: <BsCodeSlash />
     },
